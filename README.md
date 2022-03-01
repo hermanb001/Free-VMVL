@@ -1,6 +1,6 @@
 # V2Ray Heroku
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/gtang8/VM-yingxiong/tree/VL-yingxiong) 分支。**
+**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/hermanb001/Free-VMVL/tree/vless) 分支。**
 
 ## 概述
 
